@@ -1,8 +1,8 @@
 mod ast;
-// mod codegen;
+mod codegen;
 mod driver;
 mod interpreter;
-// mod ir;
+mod ir;
 mod parser;
 
 #[macro_use]
